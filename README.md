@@ -57,12 +57,11 @@ By leveraging data analytics tools such as Power BI, financial institutions can 
 
 ## 📁 Files Included
 
-- Canada finance intelligence.pbix
+Canada finance intelligence.pbix(
 - Canada_finance_dataset
 - My dashboard.png
-- my dashboard 2.png
-- ⁠dashboard video. mp4
-
+- ![my dashboard 2.png](my dashboard 2. png)
+- ![⁠dashboard video. mp4] (dashboard video.mp4)
 ---
 
 ## 🚀 Skills Demonstrated
